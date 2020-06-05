@@ -1,0 +1,12 @@
+C:\Users\lys\Desktop\CSharp\CsharpCodeFlowControl\IfAndElse\bin\Debug\netcoreapp3.1\IfAndElse.exe
+C:\Users\lys\Desktop\CSharp\CsharpCodeFlowControl\IfAndElse\bin\Debug\netcoreapp3.1\IfAndElse.deps.json
+C:\Users\lys\Desktop\CSharp\CsharpCodeFlowControl\IfAndElse\bin\Debug\netcoreapp3.1\IfAndElse.runtimeconfig.json
+C:\Users\lys\Desktop\CSharp\CsharpCodeFlowControl\IfAndElse\bin\Debug\netcoreapp3.1\IfAndElse.runtimeconfig.dev.json
+C:\Users\lys\Desktop\CSharp\CsharpCodeFlowControl\IfAndElse\bin\Debug\netcoreapp3.1\IfAndElse.dll
+C:\Users\lys\Desktop\CSharp\CsharpCodeFlowControl\IfAndElse\bin\Debug\netcoreapp3.1\IfAndElse.pdb
+C:\Users\lys\Desktop\CSharp\CsharpCodeFlowControl\IfAndElse\obj\Debug\netcoreapp3.1\IfAndElse.AssemblyInfoInputs.cache
+C:\Users\lys\Desktop\CSharp\CsharpCodeFlowControl\IfAndElse\obj\Debug\netcoreapp3.1\IfAndElse.AssemblyInfo.cs
+C:\Users\lys\Desktop\CSharp\CsharpCodeFlowControl\IfAndElse\obj\Debug\netcoreapp3.1\IfAndElse.csproj.CoreCompileInputs.cache
+C:\Users\lys\Desktop\CSharp\CsharpCodeFlowControl\IfAndElse\obj\Debug\netcoreapp3.1\IfAndElse.dll
+C:\Users\lys\Desktop\CSharp\CsharpCodeFlowControl\IfAndElse\obj\Debug\netcoreapp3.1\IfAndElse.pdb
+C:\Users\lys\Desktop\CSharp\CsharpCodeFlowControl\IfAndElse\obj\Debug\netcoreapp3.1\IfAndElse.genruntimeconfig.cache
