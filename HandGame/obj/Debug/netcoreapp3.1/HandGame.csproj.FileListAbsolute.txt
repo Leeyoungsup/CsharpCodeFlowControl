@@ -1,0 +1,12 @@
+C:\Users\lys\Desktop\CSharp\CsharpCodeFlowControl\HandGame\bin\Debug\netcoreapp3.1\HandGame.exe
+C:\Users\lys\Desktop\CSharp\CsharpCodeFlowControl\HandGame\bin\Debug\netcoreapp3.1\HandGame.deps.json
+C:\Users\lys\Desktop\CSharp\CsharpCodeFlowControl\HandGame\bin\Debug\netcoreapp3.1\HandGame.runtimeconfig.json
+C:\Users\lys\Desktop\CSharp\CsharpCodeFlowControl\HandGame\bin\Debug\netcoreapp3.1\HandGame.runtimeconfig.dev.json
+C:\Users\lys\Desktop\CSharp\CsharpCodeFlowControl\HandGame\bin\Debug\netcoreapp3.1\HandGame.dll
+C:\Users\lys\Desktop\CSharp\CsharpCodeFlowControl\HandGame\bin\Debug\netcoreapp3.1\HandGame.pdb
+C:\Users\lys\Desktop\CSharp\CsharpCodeFlowControl\HandGame\obj\Debug\netcoreapp3.1\HandGame.AssemblyInfoInputs.cache
+C:\Users\lys\Desktop\CSharp\CsharpCodeFlowControl\HandGame\obj\Debug\netcoreapp3.1\HandGame.AssemblyInfo.cs
+C:\Users\lys\Desktop\CSharp\CsharpCodeFlowControl\HandGame\obj\Debug\netcoreapp3.1\HandGame.csproj.CoreCompileInputs.cache
+C:\Users\lys\Desktop\CSharp\CsharpCodeFlowControl\HandGame\obj\Debug\netcoreapp3.1\HandGame.dll
+C:\Users\lys\Desktop\CSharp\CsharpCodeFlowControl\HandGame\obj\Debug\netcoreapp3.1\HandGame.pdb
+C:\Users\lys\Desktop\CSharp\CsharpCodeFlowControl\HandGame\obj\Debug\netcoreapp3.1\HandGame.genruntimeconfig.cache
