@@ -10,3 +10,4 @@ C:\Users\lys\Desktop\CSharp\CsharpCodeFlowControl\ConstantsAndEnumerations\obj\D
 C:\Users\lys\Desktop\CSharp\CsharpCodeFlowControl\ConstantsAndEnumerations\obj\Debug\netcoreapp3.1\ConstantsAndEnumerations.dll
 C:\Users\lys\Desktop\CSharp\CsharpCodeFlowControl\ConstantsAndEnumerations\obj\Debug\netcoreapp3.1\ConstantsAndEnumerations.pdb
 C:\Users\lys\Desktop\CSharp\CsharpCodeFlowControl\ConstantsAndEnumerations\obj\Debug\netcoreapp3.1\ConstantsAndEnumerations.genruntimeconfig.cache
+C:\Users\lys\Desktop\CSharp\CsharpCodeFlowControl\ConstantsAndEnumerations\obj\Debug\netcoreapp3.1\ConstantsAndEnumerations.csprojAssemblyReference.cache
