@@ -1,0 +1,12 @@
+C:\Users\lys\Desktop\CSharp\CsharpCodeFlowControl\ConstantsAndEnumerations\bin\Debug\netcoreapp3.1\ConstantsAndEnumerations.exe
+C:\Users\lys\Desktop\CSharp\CsharpCodeFlowControl\ConstantsAndEnumerations\bin\Debug\netcoreapp3.1\ConstantsAndEnumerations.deps.json
+C:\Users\lys\Desktop\CSharp\CsharpCodeFlowControl\ConstantsAndEnumerations\bin\Debug\netcoreapp3.1\ConstantsAndEnumerations.runtimeconfig.json
+C:\Users\lys\Desktop\CSharp\CsharpCodeFlowControl\ConstantsAndEnumerations\bin\Debug\netcoreapp3.1\ConstantsAndEnumerations.runtimeconfig.dev.json
+C:\Users\lys\Desktop\CSharp\CsharpCodeFlowControl\ConstantsAndEnumerations\bin\Debug\netcoreapp3.1\ConstantsAndEnumerations.dll
+C:\Users\lys\Desktop\CSharp\CsharpCodeFlowControl\ConstantsAndEnumerations\bin\Debug\netcoreapp3.1\ConstantsAndEnumerations.pdb
+C:\Users\lys\Desktop\CSharp\CsharpCodeFlowControl\ConstantsAndEnumerations\obj\Debug\netcoreapp3.1\ConstantsAndEnumerations.AssemblyInfoInputs.cache
+C:\Users\lys\Desktop\CSharp\CsharpCodeFlowControl\ConstantsAndEnumerations\obj\Debug\netcoreapp3.1\ConstantsAndEnumerations.AssemblyInfo.cs
+C:\Users\lys\Desktop\CSharp\CsharpCodeFlowControl\ConstantsAndEnumerations\obj\Debug\netcoreapp3.1\ConstantsAndEnumerations.csproj.CoreCompileInputs.cache
+C:\Users\lys\Desktop\CSharp\CsharpCodeFlowControl\ConstantsAndEnumerations\obj\Debug\netcoreapp3.1\ConstantsAndEnumerations.dll
+C:\Users\lys\Desktop\CSharp\CsharpCodeFlowControl\ConstantsAndEnumerations\obj\Debug\netcoreapp3.1\ConstantsAndEnumerations.pdb
+C:\Users\lys\Desktop\CSharp\CsharpCodeFlowControl\ConstantsAndEnumerations\obj\Debug\netcoreapp3.1\ConstantsAndEnumerations.genruntimeconfig.cache
