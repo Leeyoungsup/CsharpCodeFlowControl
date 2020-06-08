@@ -1,0 +1,12 @@
+C:\Users\lys\Desktop\CSharp\CsharpCodeFlowControl\PraciticeProblem\bin\Debug\netcoreapp3.1\PraciticeProblem.exe
+C:\Users\lys\Desktop\CSharp\CsharpCodeFlowControl\PraciticeProblem\bin\Debug\netcoreapp3.1\PraciticeProblem.deps.json
+C:\Users\lys\Desktop\CSharp\CsharpCodeFlowControl\PraciticeProblem\bin\Debug\netcoreapp3.1\PraciticeProblem.runtimeconfig.json
+C:\Users\lys\Desktop\CSharp\CsharpCodeFlowControl\PraciticeProblem\bin\Debug\netcoreapp3.1\PraciticeProblem.runtimeconfig.dev.json
+C:\Users\lys\Desktop\CSharp\CsharpCodeFlowControl\PraciticeProblem\bin\Debug\netcoreapp3.1\PraciticeProblem.dll
+C:\Users\lys\Desktop\CSharp\CsharpCodeFlowControl\PraciticeProblem\bin\Debug\netcoreapp3.1\PraciticeProblem.pdb
+C:\Users\lys\Desktop\CSharp\CsharpCodeFlowControl\PraciticeProblem\obj\Debug\netcoreapp3.1\PraciticeProblem.AssemblyInfoInputs.cache
+C:\Users\lys\Desktop\CSharp\CsharpCodeFlowControl\PraciticeProblem\obj\Debug\netcoreapp3.1\PraciticeProblem.AssemblyInfo.cs
+C:\Users\lys\Desktop\CSharp\CsharpCodeFlowControl\PraciticeProblem\obj\Debug\netcoreapp3.1\PraciticeProblem.csproj.CoreCompileInputs.cache
+C:\Users\lys\Desktop\CSharp\CsharpCodeFlowControl\PraciticeProblem\obj\Debug\netcoreapp3.1\PraciticeProblem.dll
+C:\Users\lys\Desktop\CSharp\CsharpCodeFlowControl\PraciticeProblem\obj\Debug\netcoreapp3.1\PraciticeProblem.pdb
+C:\Users\lys\Desktop\CSharp\CsharpCodeFlowControl\PraciticeProblem\obj\Debug\netcoreapp3.1\PraciticeProblem.genruntimeconfig.cache
