@@ -1,0 +1,13 @@
+C:\Users\lys\Desktop\CSharp\CsharpCodeFlowControl\For\bin\Debug\netcoreapp3.1\For.exe
+C:\Users\lys\Desktop\CSharp\CsharpCodeFlowControl\For\bin\Debug\netcoreapp3.1\For.deps.json
+C:\Users\lys\Desktop\CSharp\CsharpCodeFlowControl\For\bin\Debug\netcoreapp3.1\For.runtimeconfig.json
+C:\Users\lys\Desktop\CSharp\CsharpCodeFlowControl\For\bin\Debug\netcoreapp3.1\For.runtimeconfig.dev.json
+C:\Users\lys\Desktop\CSharp\CsharpCodeFlowControl\For\bin\Debug\netcoreapp3.1\For.dll
+C:\Users\lys\Desktop\CSharp\CsharpCodeFlowControl\For\bin\Debug\netcoreapp3.1\For.pdb
+C:\Users\lys\Desktop\CSharp\CsharpCodeFlowControl\For\obj\Debug\netcoreapp3.1\For.csprojAssemblyReference.cache
+C:\Users\lys\Desktop\CSharp\CsharpCodeFlowControl\For\obj\Debug\netcoreapp3.1\For.AssemblyInfoInputs.cache
+C:\Users\lys\Desktop\CSharp\CsharpCodeFlowControl\For\obj\Debug\netcoreapp3.1\For.AssemblyInfo.cs
+C:\Users\lys\Desktop\CSharp\CsharpCodeFlowControl\For\obj\Debug\netcoreapp3.1\For.csproj.CoreCompileInputs.cache
+C:\Users\lys\Desktop\CSharp\CsharpCodeFlowControl\For\obj\Debug\netcoreapp3.1\For.dll
+C:\Users\lys\Desktop\CSharp\CsharpCodeFlowControl\For\obj\Debug\netcoreapp3.1\For.pdb
+C:\Users\lys\Desktop\CSharp\CsharpCodeFlowControl\For\obj\Debug\netcoreapp3.1\For.genruntimeconfig.cache
