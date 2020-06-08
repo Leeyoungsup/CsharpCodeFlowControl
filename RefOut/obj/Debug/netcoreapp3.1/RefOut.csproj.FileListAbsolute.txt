@@ -1,0 +1,13 @@
+C:\Users\lys\Desktop\CSharp\CsharpCodeFlowControl\RefOut\obj\Debug\netcoreapp3.1\RefOut.csprojAssemblyReference.cache
+C:\Users\lys\Desktop\CSharp\CsharpCodeFlowControl\RefOut\obj\Debug\netcoreapp3.1\RefOut.AssemblyInfoInputs.cache
+C:\Users\lys\Desktop\CSharp\CsharpCodeFlowControl\RefOut\obj\Debug\netcoreapp3.1\RefOut.AssemblyInfo.cs
+C:\Users\lys\Desktop\CSharp\CsharpCodeFlowControl\RefOut\obj\Debug\netcoreapp3.1\RefOut.csproj.CoreCompileInputs.cache
+C:\Users\lys\Desktop\CSharp\CsharpCodeFlowControl\RefOut\bin\Debug\netcoreapp3.1\RefOut.exe
+C:\Users\lys\Desktop\CSharp\CsharpCodeFlowControl\RefOut\bin\Debug\netcoreapp3.1\RefOut.deps.json
+C:\Users\lys\Desktop\CSharp\CsharpCodeFlowControl\RefOut\bin\Debug\netcoreapp3.1\RefOut.runtimeconfig.json
+C:\Users\lys\Desktop\CSharp\CsharpCodeFlowControl\RefOut\bin\Debug\netcoreapp3.1\RefOut.runtimeconfig.dev.json
+C:\Users\lys\Desktop\CSharp\CsharpCodeFlowControl\RefOut\bin\Debug\netcoreapp3.1\RefOut.dll
+C:\Users\lys\Desktop\CSharp\CsharpCodeFlowControl\RefOut\bin\Debug\netcoreapp3.1\RefOut.pdb
+C:\Users\lys\Desktop\CSharp\CsharpCodeFlowControl\RefOut\obj\Debug\netcoreapp3.1\RefOut.dll
+C:\Users\lys\Desktop\CSharp\CsharpCodeFlowControl\RefOut\obj\Debug\netcoreapp3.1\RefOut.pdb
+C:\Users\lys\Desktop\CSharp\CsharpCodeFlowControl\RefOut\obj\Debug\netcoreapp3.1\RefOut.genruntimeconfig.cache
