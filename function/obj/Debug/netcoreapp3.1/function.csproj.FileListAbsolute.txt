@@ -1,0 +1,13 @@
+C:\Users\lys\Desktop\CSharp\CsharpCodeFlowControl\function\bin\Debug\netcoreapp3.1\function.exe
+C:\Users\lys\Desktop\CSharp\CsharpCodeFlowControl\function\bin\Debug\netcoreapp3.1\function.deps.json
+C:\Users\lys\Desktop\CSharp\CsharpCodeFlowControl\function\bin\Debug\netcoreapp3.1\function.runtimeconfig.json
+C:\Users\lys\Desktop\CSharp\CsharpCodeFlowControl\function\bin\Debug\netcoreapp3.1\function.runtimeconfig.dev.json
+C:\Users\lys\Desktop\CSharp\CsharpCodeFlowControl\function\bin\Debug\netcoreapp3.1\function.dll
+C:\Users\lys\Desktop\CSharp\CsharpCodeFlowControl\function\bin\Debug\netcoreapp3.1\function.pdb
+C:\Users\lys\Desktop\CSharp\CsharpCodeFlowControl\function\obj\Debug\netcoreapp3.1\function.csprojAssemblyReference.cache
+C:\Users\lys\Desktop\CSharp\CsharpCodeFlowControl\function\obj\Debug\netcoreapp3.1\function.AssemblyInfoInputs.cache
+C:\Users\lys\Desktop\CSharp\CsharpCodeFlowControl\function\obj\Debug\netcoreapp3.1\function.AssemblyInfo.cs
+C:\Users\lys\Desktop\CSharp\CsharpCodeFlowControl\function\obj\Debug\netcoreapp3.1\function.csproj.CoreCompileInputs.cache
+C:\Users\lys\Desktop\CSharp\CsharpCodeFlowControl\function\obj\Debug\netcoreapp3.1\function.dll
+C:\Users\lys\Desktop\CSharp\CsharpCodeFlowControl\function\obj\Debug\netcoreapp3.1\function.pdb
+C:\Users\lys\Desktop\CSharp\CsharpCodeFlowControl\function\obj\Debug\netcoreapp3.1\function.genruntimeconfig.cache
